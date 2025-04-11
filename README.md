@@ -9,9 +9,11 @@ Document the process of recreating the environments in the README.md file associ
 
 Steps:
 1. First, I downloaded the Code from the given repo.
-2. Recreated environments using Anaconda prompt.
+3. Recreated environments using Anaconda prompt.
    conda env create -f environment1.yml
    conda env create -f environment2.yml
+
+* Did not encounter any errors, all the  packages were already installed:)
 
 ![V1 SS1](https://github.com/user-attachments/assets/a37c99b5-21e0-493d-b709-97e81433f5d9)
 ![V1 SS2](https://github.com/user-attachments/assets/d4c8bd76-98ce-4c59-bb13-713352e6efca)
