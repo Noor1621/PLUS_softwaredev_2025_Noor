@@ -1,0 +1,13 @@
+The syntax of the command is incorrect.
+"" 
+"## Project Overview" 
+"This project demonstrates advanced climate data visualization using Python, Matplotlib, and Manim." 
+"" 
+"## Key Files:" 
+"- **Noor_Animation_Matplotlib.ipynb** - Main animation and visualization work" 
+"- **notebook_era5.ipynb** - ERA5 climate data analysis" 
+"- **era5_processor.py** - Custom data processing class" 
+"- **cacheb_path.py** - Authentication system" 
+"- **environment.yml** - Conda environment configuration" 
+"" 
+"## Author: Noor" 
